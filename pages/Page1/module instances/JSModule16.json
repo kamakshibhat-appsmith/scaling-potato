@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66f5314cbd0e060c08c12d79_3da519d6-b598-414a-8651-98d82ef9d365",
-  "id": "Page1_JSModule112",
+  "id": "Page1_JSModule16",
   "moduleUUID": "0133c162-f2a8-45f2-a515-bc153ef22730",
   "packageUUID": "25d02e9f-4f28-4c10-804b-7daaaa387218",
   "type": "JS_MODULE",
@@ -26,7 +26,7 @@
         "propertyName": "inputs.myFun2"
       }
     },
-    "name": "JSModule112",
+    "name": "JSModule16",
     "pageId": "Page1",
     "version": "0.0.11"
   }
